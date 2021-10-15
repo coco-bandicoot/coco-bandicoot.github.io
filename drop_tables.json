@@ -63426,7 +63426,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "2.8",
+        "weight": "2.9",
         "id": "13752",
         "maxAmount": "1"
       },
@@ -63558,7 +63558,7 @@
       },
       {
         "minAmount": "10",
-        "weight": "25.0",
+        "weight": "24.0",
         "id": "5295",
         "maxAmount": "10"
       },
@@ -63576,7 +63576,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "6.4",
+        "weight": "6.5",
         "id": "13754",
         "maxAmount": "1"
       },
@@ -63600,7 +63600,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "60.0",
+        "weight": "24.0",
         "id": "12070",
         "maxAmount": "1"
       },
