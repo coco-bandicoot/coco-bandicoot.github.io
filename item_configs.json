@@ -121175,6 +121175,7 @@
     "turn90cw_anim": "1207",
     "examine": "A razor-sharp sword.",
     "walk_anim": "1205",
+    "rare_item": "true",
     "low_alchemy": "27200",
     "turn90ccw_anim": "1208",
     "attack_speed": "4",
@@ -121199,7 +121200,7 @@
     "high_alchemy": "40800",
     "destroy": "false",
     "weapon_interface": "5",
-    "attack_audios": "2500,2500,2517,2500",
+    "attack_audios": "2517,2517,2500,2517",
     "name": "Leaf-bladed sword"
   },
   {
@@ -134119,7 +134120,7 @@
     "attack_speed": "4",
     "id": "14202",
     "absorb": "0,0,0",
-    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,15,0,0",
+    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,15",
     "equipment_slot": "13"
   },
   {
@@ -134133,7 +134134,7 @@
     "attack_speed": "4",
     "id": "14203",
     "absorb": "0,0,0",
-    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,30,0,0",
+    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,30",
     "equipment_slot": "13"
   },
   {
@@ -134147,7 +134148,7 @@
     "attack_speed": "4",
     "id": "14204",
     "absorb": "0,0,0",
-    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,45,0,0",
+    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,45",
     "equipment_slot": "13"
   },
   {
@@ -134161,7 +134162,7 @@
     "attack_speed": "4",
     "id": "14205",
     "absorb": "0,0,0",
-    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,60,0,0",
+    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,60",
     "equipment_slot": "13"
   },
   {
@@ -134175,7 +134176,7 @@
     "attack_speed": "4",
     "id": "14206",
     "absorb": "0,0,0",
-    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,75,0,0",
+    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,75",
     "equipment_slot": "13"
   },
   {
@@ -135431,6 +135432,8 @@
     "destroy_message": "Drop",
     "name": "Scimitar (class 1)",
     "archery_ticket_price": "0",
+    "attack_anims": "390,390,381,390",
+    "attack_audios": "2500,0,2517,0",
     "id": "14287",
     "bonuses": "0,55,0,0,0,0,0,0,0,0,0,15,0,0,0"
   },
@@ -135459,6 +135462,8 @@
     "destroy_message": "Drop",
     "name": "Scimitar (class 2)",
     "archery_ticket_price": "0",
+    "attack_anims": "390,390,381,390",
+    "attack_audios": "2500,0,2517,0",
     "id": "14289",
     "bonuses": "0,90,0,0,0,0,0,0,0,0,0,30,0,0,0"
   },
@@ -135487,6 +135492,8 @@
     "destroy_message": "Drop",
     "name": "Scimitar (class 3)",
     "archery_ticket_price": "0",
+    "attack_anims": "390,390,381,390",
+    "attack_audios": "2500,0,2517,0",
     "id": "14291",
     "bonuses": "0,145,0,0,0,0,0,0,0,0,0,45,0,0,0"
   },
@@ -135515,6 +135522,8 @@
     "destroy_message": "Drop",
     "name": "Scimitar (class 4)",
     "archery_ticket_price": "0",
+    "attack_anims": "390,390,381,390",
+    "attack_audios": "2500,0,2517,0",
     "id": "14293",
     "bonuses": "0,180,0,0,0,0,0,0,0,0,0,60,0,0,0"
   },
@@ -135543,6 +135552,8 @@
     "destroy_message": "Drop",
     "name": "Scimitar (class 5)",
     "archery_ticket_price": "0",
+    "attack_anims": "390,390,381,390",
+    "attack_audios": "2500,0,2517,0",
     "id": "14295",
     "bonuses": "0,225,0,0,0,0,0,0,0,0,0,75,0,0,0"
   },
@@ -135570,6 +135581,8 @@
     "destroy_message": "Drop",
     "name": "Dagger (class 1)",
     "archery_ticket_price": "0",
+    "attack_anims": "400,400,401,400",
+    "attack_audios": "2517,2517,2500,2517",
     "id": "14297",
     "bonuses": "41,0,0,0,0,0,0,0,0,0,0,15,0,0,0"
   },
@@ -135597,6 +135610,8 @@
     "destroy_message": "Drop",
     "name": "Dagger (class 2)",
     "archery_ticket_price": "0",
+    "attack_anims": "400,400,401,400",
+    "attack_audios": "2517,2517,2500,2517",
     "id": "14299",
     "bonuses": "68,0,0,0,0,0,0,0,0,0,0,30,0,0,0"
   },
@@ -135624,6 +135639,8 @@
     "destroy_message": "Drop",
     "name": "Dagger (class 3)",
     "archery_ticket_price": "0",
+    "attack_anims": "400,400,401,400",
+    "attack_audios": "2517,2517,2500,2517",
     "id": "14301",
     "bonuses": "101,0,0,0,0,0,0,0,0,0,0,45,0,0,0"
   },
@@ -135651,6 +135668,8 @@
     "destroy_message": "Drop",
     "name": "Dagger (class 4)",
     "archery_ticket_price": "0",
+    "attack_anims": "400,400,401,400",
+    "attack_audios": "2517,2517,2500,2517",
     "id": "14303",
     "bonuses": "135,0,0,0,0,0,0,0,0,0,0,60,0,0,0"
   },
@@ -135678,6 +135697,8 @@
     "destroy_message": "Drop",
     "name": "Dagger (class 5)",
     "archery_ticket_price": "0",
+    "attack_anims": "400,400,401,400",
+    "attack_audios": "2517,2517,2500,2517",
     "id": "14305",
     "bonuses": "168,0,0,0,0,0,0,0,0,0,0,75,0,0,0"
   },
