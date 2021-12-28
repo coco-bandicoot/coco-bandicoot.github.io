@@ -113,8 +113,8 @@ window.addEventListener('load', () => {
         return await response.json();
     }
     async function getDrops() {
-        // Mirror fetches changes every 15 minutes from Gitlab
-        const response = await fetch('https://downthecrop.github.io/2009scape-mirror/Server/data/configs/drop_tables.json');
+        // Mirror fetches changes every 15 minutes from Gitlab - edited to point to a local source of the file, for dev work
+        const response = await fetch('drop_tables.json');
         return await response.json();
     }
 
