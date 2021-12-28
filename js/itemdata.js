@@ -141,7 +141,7 @@ window.addEventListener('load', () => {
     let timeout = 0;
     async function getItems() {
         // Mirror fetches changes every 15 minutes from Gitlab - edited to point to a local source of the file, for dev work
-        const response = await fetch('drop_tables.json');
+        const response = await fetch('item_configs.json');
         itemData = await response.json();
     }
     getItems();
