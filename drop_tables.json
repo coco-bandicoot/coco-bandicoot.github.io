@@ -1639,7 +1639,7 @@
       {
         "minAmount": "1",
         "weight": "25.0",
-        "id": "2683",
+        "id": "1",
         "maxAmount": "1"
       }
     ]
@@ -2249,7 +2249,7 @@
       {
         "minAmount": "1",
         "weight": "12.0",
-        "id": "2727",
+        "id": "12070",
         "maxAmount": "1"
       },
       {
@@ -2308,7 +2308,7 @@
       }
     ],
     "ids": "50,2642",
-    "description": "",
+    "description": "King Black Dragon (Boss)",
     "main": [
       {
         "minAmount": "1",
@@ -2444,7 +2444,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "0.154",
+        "weight": "0.1641",
         "id": "11286",
         "maxAmount": "1"
       },
@@ -2456,8 +2456,8 @@
       },
       {
         "minAmount": "1",
-        "weight": "200.0",
-        "id": "0",
+        "weight": "0.547",
+        "id": "14723",
         "maxAmount": "1"
       }
     ]
@@ -17959,7 +17959,7 @@
       {
         "minAmount": "1",
         "weight": "25.0",
-        "id": "2837",
+        "id": "5733",
         "maxAmount": "1"
       },
       {
@@ -28973,7 +28973,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "5600.0",
+        "weight": "5.6",
         "id": "0",
         "maxAmount": "1"
       }
@@ -29350,7 +29350,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "0.74",
         "id": "3053",
         "maxAmount": "1"
       },
@@ -38805,12 +38805,6 @@
       {
         "minAmount": "1",
         "weight": "5.0",
-        "id": "5680",
-        "maxAmount": "1"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5.0",
         "id": "31",
         "maxAmount": "1"
       },
@@ -39136,6 +39130,12 @@
         "minAmount": "1",
         "weight": "8.0",
         "id": "5733",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "4.6",
+        "id": "14723",
         "maxAmount": "1"
       }
     ]
@@ -44628,7 +44628,7 @@
       {
         "minAmount": "1",
         "weight": "5.0",
-        "id": "2683",
+        "id": "1",
         "maxAmount": "1"
       },
       {
@@ -45068,7 +45068,7 @@
       {
         "minAmount": "1",
         "weight": "25.0",
-        "id": "2727",
+        "id": "12070",
         "maxAmount": "1"
       },
       {
@@ -47361,7 +47361,7 @@
       {
         "minAmount": "1",
         "weight": "25.0",
-        "id": "2727",
+        "id": "12070",
         "maxAmount": "1"
       },
       {
@@ -51143,7 +51143,7 @@
       {
         "minAmount": "1",
         "weight": "5.0",
-        "id": "2727",
+        "id": "12070",
         "maxAmount": "1"
       },
       {
@@ -51375,7 +51375,14 @@
     ]
   },
   {
-    "default": [],
+    "default": [
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "526",
+        "maxAmount": "1"
+      }
+    ],
     "charm": [],
     "ids": "6223",
     "description": "",
@@ -51461,7 +51468,14 @@
     ]
   },
   {
-    "default": [],
+    "default": [
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "526",
+        "maxAmount": "1"
+      }
+    ],
     "charm": [],
     "ids": "6225",
     "description": "",
@@ -51553,7 +51567,7 @@
       {
         "minAmount": "1",
         "weight": "5.0",
-        "id": "2727",
+        "id": "12070",
         "maxAmount": "1"
       },
       {
@@ -52163,7 +52177,7 @@
       {
         "minAmount": "1",
         "weight": "50.0",
-        "id": "2727",
+        "id": "12070",
         "maxAmount": "1"
       }
     ]
@@ -54790,10 +54804,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6604,6635,6655,6666,6677,6697,6703,6715",
-    "description": "",
+    "description": "Revenant imp",
     "main": [
       {
         "minAmount": "1",
@@ -55076,12 +55096,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -55111,10 +55125,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6605,6612,6616,6620,6636,6637,6638,6639,6651,6656,6657,6658,6667,6678,6679,6680,6681,6693,6698,6699,6704,6705,6706,6707,6716,6717,6718,6719",
-    "description": "",
+    "description": "Revenant goblin",
     "main": [
       {
         "minAmount": "1",
@@ -55397,12 +55417,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "20"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -55432,10 +55446,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6606,6621,6628,6640,6659,6682,6694,6708,6720",
-    "description": "",
+    "description": "Revenant icefiend",
     "main": [
       {
         "minAmount": "1",
@@ -55718,12 +55738,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "20"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -55753,10 +55767,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6607,6609,6614,6617,6625,6632,6644,6663,6675,6686,6701,6712,6724,6728",
-    "description": "",
+    "description": "Revenant werewolf",
     "main": [
       {
         "minAmount": "1",
@@ -56039,12 +56059,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -56074,10 +56088,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6608,6642,6661,6684,6710,6722,6727",
-    "description": "",
+    "description": "Revenant hobgoblin",
     "main": [
       {
         "minAmount": "1",
@@ -56360,12 +56380,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -56395,10 +56409,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6610,6615,6618,6624,6626,6629,6633,6648,6653,6664,6670,6672,6690,6696,6702,6713,6725,6729",
-    "description": "",
+    "description": "Revenant ork",
     "main": [
       {
         "minAmount": "1",
@@ -56711,12 +56731,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -56746,10 +56760,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6611,6619,6627,6630,6634,6650,6654,6665,6673,6676,6692,6714,6726,6730",
-    "description": "",
+    "description": "Revenant knight",
     "main": [
       {
         "minAmount": "1",
@@ -57068,12 +57088,6 @@
         "weight": "25.0",
         "id": "995",
         "maxAmount": "5000"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -57103,10 +57117,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6613,6623,6643,6652,6662,6669,6671,6674,6685,6695,6700,6711,6723",
-    "description": "",
+    "description": "Revenant vampire",
     "main": [
       {
         "minAmount": "1",
@@ -57395,12 +57415,6 @@
         "weight": "25.0",
         "id": "995",
         "maxAmount": "5000"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -57430,10 +57444,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6622,6631,6641,6660,6668,6683,6709,6721",
-    "description": "",
+    "description": "Revenant pyrefiend",
     "main": [
       {
         "minAmount": "1",
@@ -57722,12 +57742,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "20"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -57757,10 +57771,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6645,6687",
-    "description": "",
+    "description": "Revenant cyclops",
     "main": [
       {
         "minAmount": "1",
@@ -58079,12 +58099,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -58114,10 +58128,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6646,6688",
-    "description": "",
+    "description": "Revenant hellhound",
     "main": [
       {
         "minAmount": "1",
@@ -58430,12 +58450,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -58465,10 +58479,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6647,6689",
-    "description": "",
+    "description": "Revenant demon",
     "main": [
       {
         "minAmount": "1",
@@ -58781,12 +58801,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -58816,10 +58830,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6649,6691",
-    "description": "",
+    "description": "Revenant dark beast",
     "main": [
       {
         "minAmount": "1",
@@ -59132,12 +59152,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -59606,7 +59620,7 @@
       {
         "minAmount": "1",
         "weight": "5.0",
-        "id": "2727",
+        "id": "12070",
         "maxAmount": "1"
       },
       {
@@ -60221,7 +60235,7 @@
       {
         "minAmount": "1",
         "weight": "25.0",
-        "id": "2727",
+        "id": "12070",
         "maxAmount": "1"
       },
       {
@@ -60285,10 +60299,16 @@
         "weight": "100.0",
         "id": "12163",
         "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.6",
+        "id": "0",
+        "maxAmount": "1"
       }
     ],
     "ids": "6998,6999",
-    "description": "",
+    "description": "Revenant Dragon",
     "main": [
       {
         "minAmount": "1",
@@ -60601,12 +60621,6 @@
         "weight": "25.0",
         "id": "7061",
         "maxAmount": "5"
-      },
-      {
-        "minAmount": "1",
-        "weight": "5600.0",
-        "id": "0",
-        "maxAmount": "1"
       }
     ]
   },
@@ -64070,6 +64084,287 @@
         "minAmount": "1",
         "weight": "20.0",
         "id": "2347",
+        "maxAmount": "1"
+      }
+    ]
+  },
+  {
+    "default": [],
+    "charm": [],
+    "ids": "8591",
+    "description": "Venenatis (Wilderness Boss)",
+    "main": [
+      {
+        "minAmount": "1",
+        "weight": "2.03",
+        "id": "14731",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "36.0",
+        "id": "1093",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "36.0",
+        "id": "1319",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "4.05",
+        "id": "14723",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "4.05",
+        "id": "7158",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "150",
+        "weight": "100.0",
+        "id": "562",
+        "maxAmount": "150"
+      },
+      {
+        "minAmount": "100",
+        "weight": "100.0",
+        "id": "560",
+        "maxAmount": "100"
+      },
+      {
+        "minAmount": "75",
+        "weight": "100.0",
+        "id": "565",
+        "maxAmount": "75"
+      },
+      {
+        "minAmount": "100",
+        "weight": "17.0",
+        "id": "445",
+        "maxAmount": "100"
+      },
+      {
+        "minAmount": "25",
+        "weight": "17.0",
+        "id": "224",
+        "maxAmount": "25"
+      },
+      {
+        "minAmount": "7",
+        "weight": "9.4",
+        "id": "9194",
+        "maxAmount": "25"
+      },
+      {
+        "minAmount": "100",
+        "weight": "9.4",
+        "id": "3052",
+        "maxAmount": "100"
+      },
+      {
+        "minAmount": "15000",
+        "weight": "220.0",
+        "id": "995",
+        "maxAmount": "19999"
+      },
+      {
+        "minAmount": "2",
+        "weight": "100.0",
+        "id": "7208",
+        "maxAmount": "2"
+      },
+      {
+        "minAmount": "8",
+        "weight": "100.0",
+        "id": "2297",
+        "maxAmount": "8"
+      },
+      {
+        "minAmount": "10",
+        "weight": "38.0",
+        "id": "5953",
+        "maxAmount": "10"
+      },
+      {
+        "minAmount": "1",
+        "weight": "17.0",
+        "id": "31",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "2",
+        "weight": "8.0",
+        "id": "5297",
+        "maxAmount": "2"
+      },
+      {
+        "minAmount": "1",
+        "weight": "8.0",
+        "id": "5315",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "8.0",
+        "id": "12070",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "2.59",
+        "id": "10976",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "0.259",
+        "id": "10977",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "100.0",
+        "id": "3024",
+        "maxAmount": "1"
+      }
+    ]
+  },
+  {
+    "default": [
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "526",
+        "maxAmount": "1"
+      }
+    ],
+    "charm": [],
+    "ids": "997",
+    "description": "Crazy Archaeologist (Wilderness Boss)",
+    "main": [
+      {
+        "minAmount": "1",
+        "weight": "34.0",
+        "id": "1731",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "3.2",
+        "id": "9431",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "16.0",
+        "id": "2501",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "10",
+        "weight": "16.0",
+        "id": "868",
+        "maxAmount": "10"
+      },
+      {
+        "minAmount": "30",
+        "weight": "16.0",
+        "id": "4698",
+        "maxAmount": "30"
+      },
+      {
+        "minAmount": "75",
+        "weight": "3.2",
+        "id": "11237",
+        "maxAmount": "75"
+      },
+      {
+        "minAmount": "1",
+        "weight": "34.0",
+        "id": "2297",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "3",
+        "weight": "34.0",
+        "id": "6705",
+        "maxAmount": "3"
+      },
+      {
+        "minAmount": "1",
+        "weight": "34.0",
+        "id": "2434",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "499",
+        "weight": "100.0",
+        "id": "995",
+        "maxAmount": "3998"
+      },
+      {
+        "minAmount": "4",
+        "weight": "34.0",
+        "id": "218",
+        "maxAmount": "4"
+      },
+      {
+        "minAmount": "40",
+        "weight": "18.0",
+        "id": "443",
+        "maxAmount": "40"
+      },
+      {
+        "minAmount": "10",
+        "weight": "14.0",
+        "id": "1750",
+        "maxAmount": "10"
+      },
+      {
+        "minAmount": "1",
+        "weight": "14.0",
+        "id": "686",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "14.0",
+        "id": "991",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "6",
+        "weight": "3.2",
+        "id": "9194",
+        "maxAmount": "6"
+      },
+      {
+        "minAmount": "1",
+        "weight": "8.0",
+        "id": "10976",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "0.095",
+        "id": "10977",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "3.2",
+        "id": "31",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "3.2",
+        "id": "12070",
         "maxAmount": "1"
       }
     ]
