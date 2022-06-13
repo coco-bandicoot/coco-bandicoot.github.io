@@ -37525,13 +37525,13 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "7.5",
         "id": "6724",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "20.0",
+        "weight": "7.5",
         "id": "6739",
         "maxAmount": "1"
       },
@@ -37783,7 +37783,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "7.5",
         "id": "6733",
         "maxAmount": "1"
       }
@@ -37828,19 +37828,19 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "7.6",
         "id": "6562",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "7.6",
         "id": "1392",
         "maxAmount": "10"
       },
       {
         "minAmount": "1",
-        "weight": "20.0",
+        "weight": "7.6",
         "id": "6739",
         "maxAmount": "1"
       },
@@ -38008,7 +38008,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "7.6",
         "id": "6731",
         "maxAmount": "1"
       }
@@ -38071,7 +38071,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "20.0",
+        "weight": "7.5",
         "id": "6739",
         "maxAmount": "1"
       },
@@ -38107,13 +38107,13 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "7.5",
         "id": "6737",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "7.5",
         "id": "6735",
         "maxAmount": "1"
       },
@@ -38253,6 +38253,12 @@
         "minAmount": "1",
         "weight": "5.0",
         "id": "31",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "0.945",
+        "id": "14749",
         "maxAmount": "1"
       }
     ]
@@ -41675,7 +41681,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "1.24",
         "id": "11037",
         "maxAmount": "1"
       },
@@ -50289,47 +50295,47 @@
       }
     ],
     "ids": "6203",
-    "description": "",
+    "description": "K'ril Tsutsaroth (Zamorak GWD Boss)",
     "main": [
       {
         "minAmount": "1",
-        "weight": "1.45",
+        "weight": "0.667",
         "id": "11716",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.85",
+        "weight": "0.667",
         "id": "11708",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.7",
+        "weight": "0.4449",
         "id": "11710",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.7",
+        "weight": "0.4449",
         "id": "11712",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.7",
+        "weight": "0.4449",
         "id": "11714",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "1.45",
+        "weight": "0.667",
         "id": "11736",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "3.3",
+        "weight": "5.4",
         "id": "5698",
         "maxAmount": "1"
       },
@@ -50413,20 +50419,20 @@
       },
       {
         "minAmount": "1",
-        "weight": "55.6",
-        "id": "0",
-        "maxAmount": "1"
-      },
-      {
-        "minAmount": "1",
-        "weight": "20.0",
+        "weight": "2.67",
         "id": "31",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "20.0",
+        "weight": "2.67",
         "id": "12070",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "0.667",
+        "id": "14751",
         "maxAmount": "1"
       }
     ]
@@ -51190,7 +51196,7 @@
       }
     ],
     "ids": "6222",
-    "description": "",
+    "description": "Kree'arra (Armadyl GWD Boss)",
     "main": [
       {
         "minAmount": "1",
@@ -51236,19 +51242,19 @@
       },
       {
         "minAmount": "1",
-        "weight": "1.96",
+        "weight": "1.19",
         "id": "11718",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "1.96",
+        "weight": "1.19",
         "id": "11720",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "1.96",
+        "weight": "1.19",
         "id": "11722",
         "maxAmount": "1"
       },
@@ -51272,25 +51278,25 @@
       },
       {
         "minAmount": "1",
-        "weight": "1.17",
+        "weight": "0.888",
         "id": "11702",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.932",
+        "weight": "0.6",
         "id": "11710",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.932",
+        "weight": "0.6",
         "id": "11712",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.932",
+        "weight": "0.6",
         "id": "11714",
         "maxAmount": "1"
       },
@@ -51320,21 +51326,15 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "1.2",
         "id": "10976",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "0.09",
         "id": "10977",
         "maxAmount": "1"
-      },
-      {
-        "minAmount": "1",
-        "weight": "25.0",
-        "id": "385",
-        "maxAmount": "20"
       },
       {
         "minAmount": "18000",
@@ -51344,19 +51344,13 @@
       },
       {
         "minAmount": "1",
-        "weight": "20.0",
+        "weight": "3.55",
         "id": "12070",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "75.0",
-        "id": "0",
-        "maxAmount": "1"
-      },
-      {
-        "minAmount": "1",
-        "weight": "20.0",
+        "weight": "3.55",
         "id": "31",
         "maxAmount": "1"
       }
@@ -51854,35 +51848,35 @@
       }
     ],
     "ids": "6247",
-    "description": "",
+    "description": "Commander Zilyana (Saradomin GWD Boss)",
     "main": [
       {
         "minAmount": "1",
-        "weight": "0.7",
+        "weight": "0.548",
         "id": "11706",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.55",
+        "weight": "0.365",
         "id": "11710",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.55",
+        "weight": "0.365",
         "id": "11712",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "0.55",
+        "weight": "0.365",
         "id": "11714",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "1.21",
+        "weight": "2.2",
         "id": "11730",
         "maxAmount": "1"
       },
@@ -51978,19 +51972,13 @@
       },
       {
         "minAmount": "1",
-        "weight": "20.0",
+        "weight": "2.2",
         "id": "31",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "44.0",
-        "id": "0",
-        "maxAmount": "1"
-      },
-      {
-        "minAmount": "1",
-        "weight": "11.8",
+        "weight": "2.2",
         "id": "12070",
         "maxAmount": "1"
       }
@@ -52365,7 +52353,7 @@
       }
     ],
     "ids": "6260",
-    "description": "",
+    "description": "General Graardor (Bandos GWD Boss)",
     "main": [
       {
         "minAmount": "1",
@@ -52405,19 +52393,19 @@
       },
       {
         "minAmount": "1",
-        "weight": "2.1",
+        "weight": "1.288",
         "id": "11724",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "2.1",
+        "weight": "1.288",
         "id": "11726",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "2.1",
+        "weight": "1.288",
         "id": "11728",
         "maxAmount": "1"
       },
@@ -52471,56 +52459,50 @@
       },
       {
         "minAmount": "1",
-        "weight": "8.0",
+        "weight": "1.2",
         "id": "10976",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "8.0",
+        "weight": "0.097",
         "id": "10977",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "1.0",
+        "weight": "0.6388",
         "id": "11710",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "1.0",
+        "weight": "0.6388",
         "id": "11712",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "1.0",
+        "weight": "0.6388",
         "id": "11714",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "1.25",
+        "weight": "0.957",
         "id": "11704",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "25.0",
+        "weight": "3.8",
         "id": "12070",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "25.0",
+        "weight": "3.8",
         "id": "31",
-        "maxAmount": "1"
-      },
-      {
-        "minAmount": "1",
-        "weight": "75.0",
-        "id": "0",
         "maxAmount": "1"
       }
     ]
@@ -63764,7 +63746,7 @@
       }
     ],
     "charm": [],
-    "ids": "997",
+    "ids": "8592",
     "description": "Crazy Archaeologist (Wilderness Boss)",
     "main": [
       {
@@ -63775,7 +63757,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "3.2",
+        "weight": "3.15",
         "id": "9431",
         "maxAmount": "1"
       },
@@ -63877,14 +63859,20 @@
       },
       {
         "minAmount": "1",
-        "weight": "3.2",
+        "weight": "3.15",
         "id": "31",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "3.2",
+        "weight": "3.15",
         "id": "12070",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "3.15",
+        "id": "14767",
         "maxAmount": "1"
       }
     ]
